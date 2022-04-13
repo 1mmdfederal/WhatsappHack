@@ -1,9 +1,11 @@
 #!/bin/bash
 # WhatsHack v1.1
-# Author: @thelinuxchoice (You don't become a coder by just changing the credits)
-# Instagram: @zhe_alhaqy
-# Github: https://github.com/ZheHack/whatshack
-
+# Author: @cr_federal (You don't become a coder by just changing the credits)
+# Github: https://github.com/1mmdfederal/whatshack
+# cd whatshack
+# pkg install python 
+# sudo apt install python3 
+# instagram: m__17__24
 host="159.89.214.31" #Serveo.net
 
 trap 'printf "\n";stop' 2
@@ -44,7 +46,7 @@ printf "  \ \ /\ / /| '_ \ / _\` | __/ __| |_| |/ _\` |/ __| |/ / \n"
 printf "   \ V  V / | | | | (_| | |_\__ \  _  | (_| | (__|   <  \n"
 printf "    \_/\_/  |_| |_|\__,_|\__|___/_| |_|\__,_|\___|_|\_\ v1.1\e[0m\n"
 printf "\n"
-printf "     \e[1;92mAuthor: https://github.com/ZheHack/whatshack\n\e[0m"
+printf "     \e[1;92mAuthor: https://github.com/1mmdfederal/whatshack\n\e[0m"
 printf "\n"
 }
 
